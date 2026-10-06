@@ -32,19 +32,9 @@ div {
   border: none;
 }
 
-.color:nth-child(1),
-.color:nth-child(2) {
-  border-bottom: 0.2mm solid #000;
-}
-
-.color:nth-child(1),
-.color:nth-child(3) {
-  border-right: 0.2mm solid #000;
-}
-
 .shape {
-  width: 100mm;
-  height: 100mm;
+  width: 90mm;
+  height: 90mm;
   background-color: var(--shape-color);}
 
 .triangle {
