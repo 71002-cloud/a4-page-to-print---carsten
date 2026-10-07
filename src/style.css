@@ -86,6 +86,11 @@ div {
   .no-print {
     display: none !important;
   }
+
+  #nl-badge-frame, #nl-hud-frame {
+        display: none !important;
+  }
+
 }
 
 header {
